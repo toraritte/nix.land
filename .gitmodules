@@ -1,0 +1,3 @@
+[submodule "theses/eelco-dolstra-phd-thesis"]
+	path = theses/eelco-dolstra-phd-thesis
+	url = https://github.com/toraritte/eelco-dolstra-phd-thesis.git
