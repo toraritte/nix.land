@@ -1,4 +1,4 @@
-## 1. Introdution
+## 1. Introduction
 
 Nix "_(dolstra-thesis_1-introduction) is about getting computer programs from one machine to another—and having them still work when they get there. This is the problem of software deployment_", "_a part of the field of Software Configuration Management (SCM)_".
 
