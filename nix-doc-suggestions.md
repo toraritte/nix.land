@@ -28,5 +28,7 @@ A haphazard collection of notes in my effort to consolidate every piece of hand-
 
    What I constantly keep thinking about is how could the manuals be re-worked. The idea of having 3 separate ones that are treated as isolated monoliths is not helpful, because each has topics that requires pre-requisite knowledge from the others. It would be nice to have a recommended reading path (or more; even better, user created ones) on how to traverse the manuals (and other official docs) in a way that makes the most sense (e.g., waypoint1: Nix manual, chapter 1; waypoint2: Nixpkgs manual, introduction; etc.) Or just re-imagine the whole thing and maybe even start from scratch in its own repo.
 
+   The detailed notes regarding Nix topics of Valentin Gagarin (fricklerhandwerk):
+
    ![The detailed notes regarding Nix topics of Valentin Gagarin (fricklerhandwerk)](valentin-gagarin-fricklerhandwerk-topical-notes.png)
 
