@@ -30,5 +30,5 @@ A haphazard collection of notes in my effort to consolidate every piece of hand-
 
    The detailed notes regarding Nix topics of Valentin Gagarin (fricklerhandwerk):
 
-   ![The detailed notes regarding Nix topics of Valentin Gagarin (fricklerhandwerk)](valentin-gagarin-fricklerhandwerk-topical-notes.png)
+   ![The detailed notes regarding Nix topics of Valentin Gagarin (fricklerhandwerk)](../../assets/valentin-gagarin-fricklerhandwerk-topical-notes.png)
 
