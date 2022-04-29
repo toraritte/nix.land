@@ -1,4 +1,4 @@
-# Nix derivations and the terms ambiguous usage
+# Nix derivations and the term's ambiguous usage
 
 <sup>My comment copied here verbatim from [pull request #6420 "_Document what Nix \*is\*_"](https://github.com/NixOS/nix/pull/6420); look for more context there.</sup>
 
